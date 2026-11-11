@@ -1,0 +1,7 @@
+filiais/
+consolidado_filiais.xlsx
+documentos_entrada/
+documentos_arquivados/
+organizador.log
+__pycache__/
+.pytest_cache/
